@@ -115,6 +115,7 @@ func (k *Kafka) Start(acc telegraf.Accumulator) error {
 
 	config := cluster.NewConfig()
 	config.Consumer.Return.Errors = true
+  config.Version = sarama.V1_0_0_0
 
 	tlsConfig, err := internal.GetTLSConfig(
 		k.SSLCert, k.SSLKey, k.SSLCA, k.InsecureSkipVerify)

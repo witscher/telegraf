@@ -64,7 +64,7 @@ github.com/samuel/go-zookeeper 1d7be4effb13d2d908342d349d71a284a7542693
 github.com/satori/go.uuid 5bf94b69c6b68ee1b541973bb8e1144db23a194b
 github.com/shirou/gopsutil 48fc5612898a1213aa5d6a0fb2d4f7b968e898fb
 github.com/shirou/w32 3c9377fc6748f222729a8270fe2775d149a249ad
-github.com/Shopify/sarama c01858abb625b73a3af51d0798e4ad42c8147093
+github.com/Shopify/sarama 135422b71de984d64b21cef6011667e1824710ef
 github.com/Sirupsen/logrus 61e43dc76f7ee59a82bdf3d71033dc12bea4c77d
 github.com/soniah/gosnmp 5ad50dc75ab389f8a1c9f8a67d3a1cd85f67ed15
 github.com/StackExchange/wmi f3e2bae1e0cb5aef83e319133eabfee30013a4a5
